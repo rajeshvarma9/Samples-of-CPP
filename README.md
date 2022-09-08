@@ -1,1 +1,1 @@
-# Samples-of-C-
+# Samples of C++ Code
